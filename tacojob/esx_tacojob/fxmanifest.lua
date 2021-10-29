@@ -1,11 +1,11 @@
-fx_version 'bodacious'
-games { 'gta5' }
-
-
 fx_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
-description 'ESX Burger Shot'
+fx_version 'bodacious'
+games 'gta5'
 
+description 'ESX Taco Job'
+
+author 'R1O'
 version '1.1.0'
 
 client_scripts {
